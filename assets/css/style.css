@@ -664,6 +664,18 @@ section {
   margin-bottom: 0;
 }
 
+.services .icon-box-gray .icon {
+  background: #eeeeee;
+}
+
+.services .icon-box-gray .icon i {
+  color: #888888;
+}
+
+.services .icon-box-gray:hover {
+  border-color: #777777;
+}
+
 .services .icon-box-pink .icon {
   background: #fceef3;
 }
@@ -675,6 +687,8 @@ section {
 .services .icon-box-pink:hover {
   border-color: #ff689b;
 }
+
+
 
 .services .icon-box-cyan .icon {
   background: #e6fdfc;
